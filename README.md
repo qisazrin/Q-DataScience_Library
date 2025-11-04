@@ -9,4 +9,5 @@ It includes practical examples and notes for:
 - Loading, exploring, and cleaning datasets
 - Numerical computations and array operations
 - Data visualization and plotting
+
 It is suitable for beginners and intermediate learners who want a comprehensive overview of key Data Science workflows in Python.
