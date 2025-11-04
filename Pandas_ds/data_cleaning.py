@@ -1,4 +1,3 @@
-
 # DATA CLEANING AND EXPLORATION
 import pandas as pd
 import numpy as np
@@ -53,3 +52,4 @@ data.info()
 # Access a range of records for 'Date of Publication' column
 print("\nDate of Publication (records 1905 onwards):")
 print(data.loc[1905:, 'Date of Publication'].head(10))
+
